@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-#test
-=======
 # Authored by Aron Ahmadia
 
->>>>>>> upstream/master
 %pylab 
 import numpy as np
 
